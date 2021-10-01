@@ -1,0 +1,682 @@
+/* screen - index */
+
+.index {
+    align-items: center;
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    height: 3903px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .index .overlap-group5 {
+    align-self: flex-start;
+    height: 3595px;
+    margin-left: -672.49px;
+    margin-top: -192px;
+    position: relative;
+    width: 2591px;
+  }
+  
+  .index .overlap-group5-item {
+    height: 1261px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1246px;
+  }
+  
+  .index .overlap-group5-item-1 {
+    height: 1261px;
+    left: 1345px;
+    position: absolute;
+    top: 83px;
+    width: 1246px;
+  }
+  
+  .index .ellipse-8 {
+    height: 756px;
+    left: 713px;
+    object-fit: cover;
+    position: absolute;
+    top: 404px;
+    width: 755px;
+  }
+  
+  .index .bg-4 {
+    height: 1369px;
+    left: 761px;
+    position: absolute;
+    top: 1974px;
+    width: 1420px;
+  }
+  
+  .index .overlap-group5-item-2 {
+    height: 972px;
+    left: 441px;
+    position: absolute;
+    top: 1188px;
+    width: 979px;
+  }
+  
+  .index .rectangle-58 {
+    background-color: var(--radical-red);
+    border-radius: 31.5px;
+    height: 53px;
+    left: 1722px;
+    position: absolute;
+    top: 540px;
+    width: 263px;
+  }
+  
+  .index .rectangle-60 {
+    background-color: var(--radical-red);
+    border-radius: 31.5px;
+    height: 53px;
+    left: 1722px;
+    position: absolute;
+    top: 693px;
+    width: 263px;
+  }
+  
+  .index .rectangle-59 {
+    background-color: var(--radical-red);
+    border-radius: 31.5px;
+    height: 56px;
+    left: 1722px;
+    position: absolute;
+    top: 617px;
+    width: 264px;
+  }
+  
+  .index .text-1 {
+    color: var(--white);
+    font-family: var(--font-family-bely_display-regular);
+    font-size: var(--font-size-xxl);
+    left: 797px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 612px;
+    width: 533px;
+  }
+  
+  .index .registration {
+    left: 1750px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 442px;
+    width: 234px;
+  }
+  
+  .index .find-exactly-the {
+    color: var(--white);
+    font-family: var(--font-family-bely-regular);
+    font-size: var(--font-size-xxl);
+    left: 797px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 559px;
+    width: 323px;
+  }
+  
+  .index .name {
+    left: 1793px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 555px;
+    width: 117px;
+  }
+  
+  .index .overlap-group {
+    align-items: center;
+    background-color: var(--radical-red);
+    border-radius: 31.5px;
+    display: flex;
+    height: 53px;
+    left: 1722px;
+    min-width: 263px;
+    padding: 0 30.5px;
+    position: absolute;
+    top: 770px;
+  }
+  
+  .index .text-2 {
+    color: var(--white);
+    font-family: var(--font-family-bely-regular);
+    font-size: var(--font-size-xl);
+    letter-spacing: 0;
+    min-height: 23px;
+    width: 164px;
+  }
+  
+  .index .overlap-group1 {
+    height: 26px;
+    left: 1722px;
+    position: absolute;
+    top: 852px;
+    width: 263px;
+  }
+  
+  .index .rectangle-62 {
+    background-color: var(--radical-red);
+    border-radius: 31.5px;
+    height: 17px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 263px;
+  }
+  
+  .index .rectangle-16 {
+    background-color: var(--white);
+    height: 10px;
+    left: 19px;
+    position: absolute;
+    top: 4px;
+    width: 10px;
+  }
+  
+  .index .text-3 {
+    color: var(--white);
+    font-family: var(--font-family-bely-regular);
+    font-size: var(--font-size-xs);
+    left: 42px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 3px;
+    width: 157px;
+  }
+  
+  .index .rectangle-1 {
+    background-color: var(--white);
+    height: 109px;
+    left: 672px;
+    position: absolute;
+    top: 192px;
+    width: 1440px;
+  }
+  
+  .index .log-in {
+    left: 1968px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 241px;
+    width: 83px;
+  }
+  
+  .index .members {
+    left: 1817px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 241px;
+    width: 116px;
+  }
+  
+  .index .abot-us {
+    left: 1682px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 241px;
+    width: 103px;
+  }
+  
+  .index .place {
+    left: 1576px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 241px;
+    width: 74px;
+  }
+  
+  .index .amore-2-1 {
+    height: 383px;
+    left: 588px;
+    object-fit: cover;
+    position: absolute;
+    top: 104px;
+    width: 324px;
+  }
+  
+  .index .amore-2-1-1 {
+    height: 383px;
+    left: 672px;
+    object-fit: cover;
+    position: absolute;
+    top: 1114px;
+    width: 324px;
+  }
+  
+  .index .title {
+    color: var(--scarlet);
+    font-family: var(--font-family-bely_display-regular);
+    font-size: var(--font-size-xxxl);
+    font-weight: 400;
+    left: 1156px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 2252px;
+    width: 563px;
+  }
+  
+  .index .image3 {
+    height: 242px;
+    left: 876px;
+    position: absolute;
+    top: 2457px;
+    width: 241px;
+  }
+  
+  .index .image5 {
+    height: 242px;
+    left: 1715px;
+    position: absolute;
+    top: 2457px;
+    width: 241px;
+  }
+  
+  .index .image4 {
+    height: 335px;
+    left: 1250px;
+    position: absolute;
+    top: 2406px;
+    width: 335px;
+  }
+  
+  .index .create-an-account {
+    left: 898px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 2718px;
+    width: 237px;
+  }
+  
+  .index .choose-a-match {
+    left: 1334px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 2779px;
+    width: 207px;
+  }
+  
+  .index .enjoy-date {
+    left: 1751px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 2722px;
+    width: 169px;
+  }
+  
+  .index .text-4 {
+    left: 903px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 2779px;
+    width: 210px;
+  }
+  
+  .index .text-5 {
+    left: 1335px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 2830px;
+    width: 195px;
+  }
+  
+  .index .text-6 {
+    left: 1730px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 2766px;
+    width: 196px;
+  }
+  
+  .index .for-you {
+    height: 197px;
+    left: 903px;
+    position: absolute;
+    top: 2478px;
+    width: 195px;
+  }
+  
+  .index .cursor {
+    height: 85px;
+    left: 1001px;
+    position: absolute;
+    top: 2504px;
+    width: 84px;
+  }
+  
+  .index .female-user {
+    height: 225px;
+    left: 1304px;
+    position: absolute;
+    top: 2464px;
+    width: 226px;
+  }
+  
+  .index .search {
+    height: 311px;
+    left: 1208px;
+    position: absolute;
+    top: 2426px;
+    width: 453px;
+  }
+  
+  .index .romance {
+    height: 94px;
+    left: 1800px;
+    position: absolute;
+    top: 2548px;
+    width: 94px;
+  }
+  
+  .index .tango {
+    height: 94px;
+    left: 1737px;
+    position: absolute;
+    top: 2524px;
+    width: 94px;
+  }
+  
+  .index .tdoggmailcom {
+    left: 1779px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 628px;
+    width: 211px;
+  }
+  
+  .index .phone {
+    left: 1809px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 702px;
+    width: 117px;
+  }
+  
+  .index .overlap-group2 {
+    align-items: flex-start;
+    background-color: var(--radical-red);
+    border-radius: 31.5px;
+    display: flex;
+    height: 53px;
+    left: 1749px;
+    min-width: 236px;
+    padding: 15px 41px;
+    position: absolute;
+    top: 902px;
+  }
+  
+  .index .registration-1 {
+    letter-spacing: 0;
+    min-height: 22px;
+    width: 154px;
+  }
+  
+  .index .text-7 {
+    left: 811px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 1558px;
+    width: 347px;
+  }
+  
+  .index .who-we-are {
+    left: 811px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 1370px;
+    width: 154px;
+  }
+  
+  .index .amore-2-2 {
+    height: 407px;
+    left: 1788px;
+    object-fit: cover;
+    position: absolute;
+    top: 2031px;
+    width: 346px;
+  }
+  
+  .index .subscribe {
+    color: var(--scarlet);
+    font-family: var(--font-family-bely_display-regular);
+    font-size: var(--font-size-xl);
+    left: 1303px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 3424px;
+    width: 178px;
+  }
+  
+  .index .subscribe-bar {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    left: 998px;
+    min-height: 362px;
+    position: absolute;
+    top: 3233px;
+    width: 792px;
+  }
+  
+  .index .overlap-group4 {
+    align-items: flex-start;
+    background-image: url(../img/vector@2x.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 24px;
+    margin-left: 34.83px;
+    margin-top: -2px;
+    min-width: 29px;
+    padding: 1.1px 0;
+  }
+  
+  .index .vector {
+    height: 12px;
+    width: 29px;
+  }
+  
+  .index .overlap-group3 {
+    border-radius: 70px;
+    height: 68px;
+    margin-top: 272px;
+    position: relative;
+    width: 788px;
+  }
+  
+  .index .group-3 {
+    align-items: flex-end;
+    background-color: var(--pale-rose);
+    border-radius: 70px;
+    display: flex;
+    height: 68px;
+    justify-content: flex-end;
+    left: 0;
+    min-width: 788px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .index .overlap-group-1 {
+    height: 67px;
+    position: relative;
+    width: 430px;
+  }
+  
+  .index .rectangle-35 {
+    background-color: var(--scarlet);
+    border-radius: 34px;
+    height: 67px;
+    left: 184px;
+    position: absolute;
+    top: 0;
+    width: 246px;
+  }
+  
+  .index .rectangle-35-1 {
+    background-color: var(--pale-rose);
+    height: 67px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 246px;
+  }
+  
+  .index .subscribe-1 {
+    left: 636px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 21px;
+    width: 124px;
+  }
+  
+  .index .e-mail {
+    left: 80px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 27px;
+    width: 66px;
+  }
+  
+  .index .group-44 {
+    background-color: var(--scarlet);
+    border-radius: 31.5px;
+    height: 53px;
+    left: 797px;
+    position: absolute;
+    top: 1882px;
+    width: 236px;
+  }
+  
+  .index .read-more {
+    left: 842px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 1897px;
+    width: 154px;
+  }
+  
+  .index .ellipse-9 {
+    height: 756px;
+    left: 1245px;
+    object-fit: cover;
+    position: absolute;
+    top: 1257px;
+    width: 755px;
+  }
+  
+  .index .flex-row {
+    align-items: flex-end;
+    display: flex;
+    height: 27px;
+    margin-left: 70.0px;
+    margin-top: 73px;
+    min-width: 612px;
+  }
+  
+  .index .place-1 {
+    letter-spacing: 0;
+    min-height: 25px;
+    width: 75px;
+  }
+  
+  .index .about {
+    letter-spacing: 0;
+    margin-left: 75px;
+    min-height: 25px;
+    width: 85px;
+  }
+  
+  .index .members-1 {
+    letter-spacing: 0;
+    margin-left: 70px;
+    min-height: 25px;
+    width: 122px;
+  }
+  
+  .index .place-2 {
+    align-self: flex-start;
+    letter-spacing: 0;
+    margin-left: 63px;
+    min-height: 25px;
+    width: 122px;
+  }
+  
+  .index .flex-row-1 {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 23.0px;
+    margin-top: 71px;
+    min-width: 565px;
+  }
+  
+  .index .facebook-logo {
+    height: 90px;
+    width: 90px;
+  }
+  
+  .index .flex-row-item {
+    height: 90px;
+    margin-left: 61px;
+    width: 90px;
+  }
+  
+  .index .tik-tok {
+    height: 90px;
+    margin-left: 83px;
+    width: 90px;
+  }
+  
+  .index .space-line {
+    height: 1px;
+    margin-top: 30px;
+    width: 1440px;
+  }
+  
+  .index .flex-row-2 {
+    align-items: flex-start;
+    display: flex;
+    height: 124px;
+    margin-left: 60.0px;
+    margin-top: 46px;
+    min-width: 512px;
+  }
+  
+  .index .tc {
+    letter-spacing: 0;
+    min-height: 25px;
+    width: 53px;
+  }
+  
+  .index .flex-col {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: 77px;
+    min-height: 124px;
+    width: 193px;
+  }
+  
+  .index .privacy-policy {
+    letter-spacing: 0;
+    margin-left: 10.0px;
+    min-height: 25px;
+    width: 135px;
+  }
+  
+  .index .x2021-copy-rights {
+    letter-spacing: 0;
+    margin-top: 69px;
+    min-height: 30px;
+    width: 193px;
+  }
+  
+  .index .help-centre {
+    letter-spacing: 0;
+    margin-left: 54px;
+    min-height: 25px;
+    width: 135px;
+  }
+  

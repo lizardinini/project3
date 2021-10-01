@@ -1,0 +1,143 @@
+:root { 
+  --black: #000000;
+  --endeavour: #0054af;
+  --gulf-blue: #00195e;
+  --pale-rose: #ffe1ea;
+  --pale-rose-2: #ffe7ee;
+  --pattens-blue: #ddf2fe;
+  --radical-red: #f94a63;
+  --scarlet: #f82e4b;
+  --sizzling-red: #f83652;
+  --white: #ffffff;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 18px;
+  --font-size-s: 14px;
+  --font-size-xl: 36px;
+  --font-size-xs: 11px;
+  --font-size-xxl: 48px;
+  --font-size-xxxl: 72px;
+ 
+  --font-family-bely-bold: "Bely-Bold", Helvetica;
+  --font-family-bely-regular: "Bely-Regular", Helvetica;
+  --font-family-bely_display-regular: "Bely Display-Regular", Helvetica;
+}
+.bely-regular-normal-scarlet-18px {
+  color: var(--scarlet);
+  font-family: var(--font-family-bely-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bely-bold-scarlet-18px {
+  color: var(--scarlet);
+  font-family: var(--font-family-bely-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.bely-regular-normal-scarlet-24px {
+  color: var(--scarlet);
+  font-family: var(--font-family-bely-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bely-regular-normal-endeavour-24px {
+  color: var(--endeavour);
+  font-family: var(--font-family-bely-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.belydisplay-regular-normal-scarlet-24px {
+  color: var(--scarlet);
+  font-family: var(--font-family-bely_display-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bely-regular-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-bely-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.belydisplay-regular-normal-scarlet-48px {
+  color: var(--scarlet);
+  font-family: var(--font-family-bely_display-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.belydisplay-regular-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-bely_display-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bely-regular-normal-gulf-blue-24px {
+  color: var(--gulf-blue);
+  font-family: var(--font-family-bely-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bely-regular-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-bely-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.belydisplay-regular-normal-scarlet-11px {
+  color: var(--scarlet);
+  font-family: var(--font-family-bely_display-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.belydisplay-regular-normal-sizzling-red-24px {
+  color: var(--sizzling-red);
+  font-family: var(--font-family-bely_display-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.belydisplay-regular-normal-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-bely_display-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bely-regular-normal-scarlet-14px {
+  color: var(--scarlet);
+  font-family: var(--font-family-bely-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.belydisplay-regular-normal-gulf-blue-48px {
+  color: var(--gulf-blue);
+  font-family: var(--font-family-bely_display-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
